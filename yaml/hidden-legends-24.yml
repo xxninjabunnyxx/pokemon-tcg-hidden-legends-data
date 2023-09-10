@@ -1,0 +1,87 @@
+---
+id: ex5-24
+name: Relicanth
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Water
+abilities:
+- name: Deep Sleep
+  text: As long as Relicanth is your Active Pokémon, a player flips 2 coins for each
+    of his or her Pokémon that is Asleep between turns. If either coin is tails, that
+    Pokémon is still Asleep.
+  type: Poké-Body
+attacks:
+- name: Yawn
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Flip a coin. If heads, the Defending Pokémon is now Asleep.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex5
+  name: Hidden Legends
+  series: EX
+  printedTotal: 101
+  total: 102
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HL
+  releaseDate: 2004/06/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex5/symbol.png
+    logo: https://images.pokemontcg.io/ex5/logo.png
+number: '24'
+artist: Kagemaru Himeno
+rarity: Rare
+nationalPokedexNumbers:
+- 369
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex5/24.png
+  large: https://images.pokemontcg.io/ex5/24_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex5-24
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.55
+      mid: 0.9
+      high: 1.99
+      market: 0.96
+      directLow: 
+    reverseHolofoil:
+      low: 5.14
+      mid: 7.85
+      high: 9.2
+      market: 8.54
+      directLow: 5.14
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex5-24
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.57
+    lowPrice: 0.02
+    trendPrice: 0.62
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.5
+    reverseHoloTrend: 3.72
+    lowPriceExPlus: 0.19
+    avg1: 0.99
+    avg7: 0.57
+    avg30: 0.61
+    reverseHoloAvg1: 2.99
+    reverseHoloAvg7: 4.86
+    reverseHoloAvg30: 2.9

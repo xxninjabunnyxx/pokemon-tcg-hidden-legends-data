@@ -1,0 +1,87 @@
+---
+id: ex5-13
+name: Pinsir
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Grass
+abilities:
+- name: Crust
+  text: Any damage done to Pinsir by attacks from your opponent's Basic Pokémon is
+    reduced by 30 (after applying Weakness and Resistance).
+  type: Poké-Body
+attacks:
+- name: Sonicboom
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: This attack's damage isn't affected by Weakness or Resistance.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex5
+  name: Hidden Legends
+  series: EX
+  printedTotal: 101
+  total: 102
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HL
+  releaseDate: 2004/06/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex5/symbol.png
+    logo: https://images.pokemontcg.io/ex5/logo.png
+number: '13'
+artist: Hajime Kusajima
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 127
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex5/13.png
+  large: https://images.pokemontcg.io/ex5/13_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex5-13
+  updatedAt: 2023/09/10
+  prices:
+    holofoil:
+      low: 4.0
+      mid: 10.0
+      high: 15.12
+      market: 11.93
+      directLow: 
+    reverseHolofoil:
+      low: 6.0
+      mid: 7.89
+      high: 11.18
+      market: 7.77
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex5-13
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 2.45
+    lowPrice: 0.77
+    trendPrice: 4.13
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.25
+    reverseHoloLow: 0.99
+    reverseHoloTrend: 4.87
+    lowPriceExPlus: 1.9
+    avg1: 0.8
+    avg7: 3.67
+    avg30: 3.66
+    reverseHoloAvg1: 1.5
+    reverseHoloAvg7: 3.64
+    reverseHoloAvg30: 4.35

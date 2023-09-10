@@ -1,0 +1,86 @@
+---
+id: ex5-18
+name: Gorebyss
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '70'
+types:
+- Water
+evolvesFrom: Clamperl
+attacks:
+- name: Stun Needle
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+- name: Mystic Water
+  cost:
+  - Water
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 20+
+  text: Does 20 damage plus 10 more damage for each Psychic Energy in play.
+weaknesses:
+- type: Lightning
+  value: "×2"
+set:
+  id: ex5
+  name: Hidden Legends
+  series: EX
+  printedTotal: 101
+  total: 102
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HL
+  releaseDate: 2004/06/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex5/symbol.png
+    logo: https://images.pokemontcg.io/ex5/logo.png
+number: '18'
+artist: Kagemaru Himeno
+rarity: Rare
+nationalPokedexNumbers:
+- 368
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex5/18.png
+  large: https://images.pokemontcg.io/ex5/18_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex5-18
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 1.69
+      mid: 2.35
+      high: 3.69
+      market: 2.35
+      directLow: 
+    reverseHolofoil:
+      low: 3.99
+      mid: 6.98
+      high: 27.0
+      market: 4.85
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex5-18
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.54
+    lowPrice: 0.05
+    trendPrice: 0.31
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 5.0
+    reverseHoloLow: 0.25
+    reverseHoloTrend: 5.03
+    lowPriceExPlus: 0.1
+    avg1: 0.2
+    avg7: 0.54
+    avg30: 0.75
+    reverseHoloAvg1: 5.0
+    reverseHoloAvg7: 4.63
+    reverseHoloAvg30: 2.73
